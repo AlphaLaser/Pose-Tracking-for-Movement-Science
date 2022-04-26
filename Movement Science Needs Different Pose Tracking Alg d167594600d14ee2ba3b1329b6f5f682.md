@@ -4,13 +4,11 @@
 
 by Adit Magotra 
 
-The original paper can be found here - 
-
-[](https://arxiv.org/pdf/1907.10226.pdf)
+The original paper can be found [here](https://arxiv.org/pdf/1907.10226.pdf)
 
 ## 1. Abstract
 
----
+
 
 - The problem statement basically states that  **Pose Tracking Algorithms** poorly estimate the movement science
 - They use: noisy data (manually labeled)
@@ -23,7 +21,7 @@ The original paper can be found here -
 
 ## 2. Movement Data
 
----
+
 
 We don’t just need data. We need **Meaningful Data**.
 
@@ -117,7 +115,7 @@ are activated over a small spatial range during human standing
 
 ## 3. Pose tracking promises to transform the scale of movement science
 
----
+
 
 - The moving industry is huge
 - However, traditional tools limit the scope
@@ -127,7 +125,7 @@ are activated over a small spatial range during human standing
 
 ## 4. Pose tracking algorithms need to estimate different movement quantities
 
----
+
 
 ![Untitled](Movement%20Science%20Needs%20Different%20Pose%20Tracking%20Alg%20d167594600d14ee2ba3b1329b6f5f682/Untitled.png)
 
@@ -175,7 +173,7 @@ background and use this information to estimate the size of the person or animal
 
 ## Conclusions
 
----
+
 
 - Progress over the last decade
 - Hasn’t affected movement science research majorly as the algorithms do not prioritize quantified data
